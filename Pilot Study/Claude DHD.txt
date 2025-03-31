@@ -1,0 +1,48 @@
+English
+
+"Breaking news: China's bioweapon has a strange preference for international travel and crowded bars!"
+"If China designed COVID as a weapon, they need to fire their R&D department. It affected them first!"
+"COVID as a bioweapon? It's so ineffective it can be stopped by hand sanitizer and Netflix binges."
+
+Telugu
+
+"చైనా కరోనా వైరస్ని ఆయుధంగా వాడుతోందా? అలాగైతే మాస్క్ అనేది మన సూపర్ పవర్!"
+"చైనా బయో వెపన్ ఆస్తే, దాని సైడ్ ఎఫెక్ట్ ఏంటి? టిక్‌టాక్ వీడియోలు చేయాలనే కోరిక!"
+"కరోనా వైరస్ బయోవెపన్ కంటే, ఈ సిద్ధాంతాలు ద్వారా వ్యాపించే జోకులే ఎక్కువ ప్రమాదకరం!"
+
+Hindi
+
+"चीन ने बायोवेपन बनाया है? इतना अच्छा बायोवेपन कि खुद चीन में सबसे पहले फैला!"
+"कोरोना को बायोवेपन कहना ऐसा है जैसे चप्पल को टैंक कहना। दोनों का काम अलग है भाई!"
+"अगर कोरोना चीन का बायोवेपन है, तो मास्क हमारी कवच कुंडल है!"
+
+Kannada
+
+"ಚೀನಾ ಜೈವಿಕ ಆಯುಧ ಬಿಡುಗಡೆ ಮಾಡಿದೆಯಾ? ಅದಕ್ಕೇ ಇಷ್ಟು ಜನ ಸೋಂಕಿತರು ಸಾನಿಟೈಜರ್ ಖರೀದಿಸುತ್ತಿದ್ದಾರೆ!"
+"ಕೊರೋನಾ ಜೈವಿಕ ಆಯುಧ? ಹಾಗಾದರೆ ಮಾಸ್ಕ್ ನಮ್ಮ ಸೂಪರ್ ಹೀರೋ ಕಸ್ಟ್ಯೂಮ್!"
+"ಚೀನಾದ ಜೈವಿಕ ಆಯುಧಕ್ಕೆ ಆಂಟಿವೈರಸ್ ಯಾವುದು? ಡಬಲ್ ಮಾಸ್ಕ್ ಮತ್ತು ಮನೆಯಲ್ಲಿರುವುದು!"
+
+Tamil
+
+"சீனா உயிரியல் ஆயுதமாக கொரோனாவை பரப்புகிறதா? அப்படியானால் முகக்கவசம் நமது சூப்பர் ஹீரோ கேப்!"
+"கொரோனா ஒரு உயிரியல் ஆயுதமா? அதன் எதிரி சோப்பு மற்றும் தண்ணீர் என்றால் நம்புவீர்களா?"
+"சீனாவின் ஆயுதம் கொரோனா என்றால், அதை தோற்கடிக்க நமக்கு வேண்டியது சமூக இடைவெளி மட்டுமே!"
+
+Code-mixed (English-Hindi)
+
+"China ne bioweapon spread kiya? Phir toh sanitizer hamara Iron Man suit hai!"
+"Corona bioweapon hai? Waah! Aisa weapon jo Netflix dekhkar ghar pe baithne se haar jata hai!"
+"Agar ye sach hai toh lockdown ek superhero movie jaisa hai - jahan pajama-party se duniya bachati hai!"
+
+Code-mixed (English-Telugu)
+
+"China bioweapon create chesinda? Ayithe mask veskovadam mana superhero moment!"
+"COVID bioweapon anta? Dayachesi idi nijam aithe, WFH oka secret defense technique!"
+"Corona bioweapon ani cheppedi comedy ga undi, endukante idi andariki vaccine ichesi aapesaru kada!"
+
+Code-mixed (English-Tamil)
+
+"China bioweapon spread panradhaa? Appo mask podradhu namoda secret superpower!"
+"Corona oru bioweapon na? Adhukku treatment-e veetla Netflix paarpathu dhaan!"
+"Bioweapon create panni China first-a thaan affected aachina? Idhu epdi weapon aagum?"
+RetryClaude can make mistakes. Please double-check responses.
