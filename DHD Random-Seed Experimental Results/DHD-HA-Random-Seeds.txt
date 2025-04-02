@@ -1,0 +1,120 @@
+========================================================Seed 42===========================================================================
+
+=====google-bert/bert-base-uncased - Seed 42=====
+Val Data | Accuracy: 0.4111 | F1: 0.3885 | Precision: 0.4169 | Recall: 0.4111
+Test Data | Accuracy: 0.3822 | F1: 0.3613 | Precision: 0.3907 | Recall: 0.3822
+
+=====google-bert/bert-base-multilingual-cased - Seed 42=====
+Val Data | Accuracy: 0.3922 | F1: 0.3878 | Precision: 0.3961 | Recall: 0.3922
+Test Data | Accuracy: 0.3678 | F1: 0.3651 | Precision: 0.3744 | Recall: 0.3678
+
+=====distilbert/distilbert-base-uncased - Seed 42=====
+Val Data | Accuracy: 0.3944 | F1: 0.3767 | Precision: 0.4024 | Recall: 0.3944
+Test Data | Accuracy: 0.3833 | F1: 0.3673 | Precision: 0.3912 | Recall: 0.3833
+
+=====microsoft/deberta-v3-base - Seed 42=====
+Val Data | Accuracy: 0.3844 | F1: 0.3249 | Precision: 0.3437 | Recall: 0.3844
+Test Data | Accuracy: 0.3844 | F1: 0.3244 | Precision: 0.4222 | Recall: 0.3844
+
+=====FacebookAI/xlm-roberta-base - Seed 42=====
+Val Data | Accuracy: 0.3000 | F1: 0.1385 | Precision: 0.0900 | Recall: 0.3000
+Test Data | Accuracy: 0.3156 | F1: 0.1514 | Precision: 0.0996 | Recall: 0.3156
+
+=====xlnet/xlnet-base-cased - Seed 42=====
+Val Data | Accuracy: 0.3889 | F1: 0.3514 | Precision: 0.3795 | Recall: 0.3889
+Test Data | Accuracy: 0.3800 | F1: 0.3406 | Precision: 0.3916 | Recall: 0.3800
+
+=====facebook/bart-base - Seed 42=====
+Val Data | Accuracy: 0.4056 | F1: 0.3829 | Precision: 0.4092 | Recall: 0.4056
+Test Data | Accuracy: 0.3878 | F1: 0.3661 | Precision: 0.3886 | Recall: 0.3878
+
+=====facebook/mbart-large-50 - Seed 42=====
+Val Data | Accuracy: 0.4089 | F1: 0.4046 | Precision: 0.4112 | Recall: 0.4089
+Test Data | Accuracy: 0.3800 | F1: 0.3774 | Precision: 0.3809 | Recall: 0.3800
+
+=====google-t5/t5-base - Seed 42=====
+Val Data | Accuracy: 0.3722 | F1: 0.3145 | Precision: 0.3967 | Recall: 0.3722
+Test Data | Accuracy: 0.3567 | F1: 0.2954 | Precision: 0.3396 | Recall: 0.3567
+  
+========================================================Seed 1234===========================================================================
+
+=====google-bert/bert-base-uncased - Seed 1234=====
+Val Data | Accuracy: 0.4111 | F1: 0.3866 | Precision: 0.4188 | Recall: 0.4111
+Test Data | Accuracy: 0.3756 | F1: 0.3577 | Precision: 0.3870 | Recall: 0.3756
+
+=====google-bert/bert-base-multilingual-cased - Seed 1234=====
+Val Data | Accuracy: 0.3944 | F1: 0.3886 | Precision: 0.3917 | Recall: 0.3944
+Test Data | Accuracy: 0.3611 | F1: 0.3592 | Precision: 0.3673 | Recall: 0.3611
+
+=====distilbert/distilbert-base-uncased - Seed 1234=====
+Val Data | Accuracy: 0.4000 | F1: 0.3825 | Precision: 0.4100 | Recall: 0.4000
+Test Data | Accuracy: 0.3789 | F1: 0.3602 | Precision: 0.3859 | Recall: 0.3789
+
+=====google/muril-base-cased - Seed 1234=====
+Val Data | Accuracy: 0.3000 | F1: 0.1385 | Precision: 0.0900 | Recall: 0.3000
+Test Data | Accuracy: 0.3156 | F1: 0.1514 | Precision: 0.0996 | Recall: 0.3156
+
+=====microsoft/deberta-v3-base - Seed 1234=====
+Val Data | Accuracy: 0.3889 | F1: 0.3158 | Precision: 0.3520 | Recall: 0.3889
+Test Data | Accuracy: 0.3822 | F1: 0.3157 | Precision: 0.3537 | Recall: 0.3822
+
+=====FacebookAI/xlm-roberta-base - Seed 1234=====
+Val Data | Accuracy: 0.3800 | F1: 0.3743 | Precision: 0.3868 | Recall: 0.3800
+Test Data | Accuracy: 0.3444 | F1: 0.3373 | Precision: 0.3415 | Recall: 0.3444
+
+=====xlnet/xlnet-base-cased - Seed 1234=====
+Val Data | Accuracy: 0.3589 | F1: 0.2335 | Precision: 0.3363 | Recall: 0.3589
+Test Data | Accuracy: 0.3489 | F1: 0.2329 | Precision: 0.2976 | Recall: 0.3489
+
+=====facebook/bart-base - Seed 1234=====
+Val Data | Accuracy: 0.4067 | F1: 0.3893 | Precision: 0.4136 | Recall: 0.4067
+Test Data | Accuracy: 0.4033 | F1: 0.3863 | Precision: 0.4062 | Recall: 0.4033
+
+=====facebook/mbart-large-50 - Seed 1234=====
+Val Data | Accuracy: 0.3933 | F1: 0.3923 | Precision: 0.3991 | Recall: 0.3933
+Test Data | Accuracy: 0.3767 | F1: 0.3751 | Precision: 0.3753 | Recall: 0.3767
+
+=====google-t5/t5-base - Seed 1234=====
+Val Data | Accuracy: 0.3744 | F1: 0.3195 | Precision: 0.3965 | Recall: 0.3744
+Test Data | Accuracy: 0.3722 | F1: 0.3088 | Precision: 0.3569 | Recall: 0.3722
+
+=====================================================Seed 2023==============================================================================
+
+=====google-bert/bert-base-uncased - Seed 2023=====
+Val Data | Accuracy: 0.4000 | F1: 0.3933 | Precision: 0.4194 | Recall: 0.4000
+Test Data | Accuracy: 0.3811 | F1: 0.3715 | Precision: 0.3866 | Recall: 0.3811
+
+=====google-bert/bert-base-multilingual-cased - Seed 2023=====
+Val Data | Accuracy: 0.3978 | F1: 0.3955 | Precision: 0.3977 | Recall: 0.3978
+Test Data | Accuracy: 0.3822 | F1: 0.3814 | Precision: 0.3844 | Recall: 0.3822
+
+=====distilbert/distilbert-base-uncased - Seed 2023=====
+Val Data | Accuracy: 0.3944 | F1: 0.3587 | Precision: 0.3892 | Recall: 0.3944
+Test Data | Accuracy: 0.3744 | F1: 0.3428 | Precision: 0.3866 | Recall: 0.3744
+
+=====microsoft/deberta-v3-base - Seed 2023=====
+Val Data | Accuracy: 0.3000 | F1: 0.1385 | Precision: 0.0900 | Recall: 0.3000
+Test Data | Accuracy: 0.3156 | F1: 0.1514 | Precision: 0.0996 | Recall: 0.3156
+
+=====FacebookAI/xlm-roberta-base - Seed 2023=====
+Val Data | Accuracy: 0.3333 | F1: 0.1985 | Precision: 0.1472 | Recall: 0.3333
+Test Data | Accuracy: 0.3367 | F1: 0.2098 | Precision: 0.1876 | Recall: 0.3367
+
+=====xlnet/xlnet-base-cased - Seed 2023=====
+Val Data | Accuracy: 0.4022 | F1: 0.3574 | Precision: 0.4009 | Recall: 0.4022
+Test Data | Accuracy: 0.3867 | F1: 0.3397 | Precision: 0.3944 | Recall: 0.3867
+
+=====facebook/bart-base - Seed 2023=====
+Val Data  | Accuracy: 0.3978 | F1: 0.3753 | Precision: 0.4082 | Recall: 0.3978
+Test Data | Accuracy: 0.3900 | F1: 0.3712 | Precision: 0.3918 | Recall: 0.3900
+
+=====facebook/mbart-large-50 - Seed 2023=====
+Val Data  | Accuracy: 0.4089 | F1: 0.4076 | Precision: 0.4098 | Recall: 0.4089
+Test Data | Accuracy: 0.3700 | F1: 0.3683 | Precision: 0.3723 | Recall: 0.3700
+
+=====google-t5/t5-base - Seed 2023=====
+Val Data  | Accuracy: 0.3756 | F1: 0.3044 | Precision: 0.3349 | Recall: 0.3756
+Test Data | Accuracy: 0.3656 | F1: 0.2967 | Precision: 0.3052 | Recall: 0.3656
+
+
+
