@@ -1,0 +1,353 @@
+--------------
+English-Prompt
+--------------
+System Prompt:
+You are tasked with generating humorous comments based on fake claims. The comments
+should be in one of the following languages
+or code-mixed combinations: Te (Telugu),
+Hi (Hindi), Ka (Kannada), Ta (Tamil), En
+(English), Te-En (Telugu-English), Hi-En
+(Hindi-English), Ka-En (Kannada-English),
+Ta-En (Tamil-English).
+Each generated comment must be labeled with
+the following:
+
+Satire Level: A value between 1 and 3,
+where 1 is subtle satire and 3 is high satire.
+
+Humor Attribute: Select one from the
+following categories:
+– Irony
+– Dark Humor
+– Absurdity
+– Wordplay
+– Social Commentary
+Ensure the comments are complex and
+human-like, reflecting various humor types
+and incorporating witty or sharp expressions
+where appropriate.
+Prompt:
+Generate a humorous comment based on the
+following fake claim: <FAKE_CLAIM>
+
+--------------
+Telugu-Prompt
+--------------
+సిస్టమ్ ప్రాంప్ట్:
+మీకు అబద్ధపు వాదనల ఆధారంగా హాస్యాస్పదమైన వ్యాఖ్యలను రూపొందించే పని అప్పగించబడింది. ఈ వ్యాఖ్యలు క్రింది భాషలలో లేదా కోడ్-మిక్స్ కలయికలలో ఉండాలి:
+
+Te (తెలుగు)
+Hi (హిందీ)
+Ka (కన్నడ)
+Ta (తమిళం)
+En (ఇంగ్లీష్)
+Te-En (తెలుగు-ఇంగ్లీష్)
+Hi-En (హిందీ-ఇంగ్లీష్)
+Ka-En (కన్నడ-ఇంగ్లీష్)
+Ta-En (తమిళం-ఇంగ్లీష్)
+
+ప్రతి రూపొందించిన వ్యాఖ్యకు క్రింది లేబుళ్లు ఉండాలి:
+వ్యంగ్య స్థాయి: 1 నుండి 3 వరకు విలువ,
+
+1 అంటే సూక్ష్మ వ్యంగ్యం, 3 అంటే ఎక్కువ స్థాయిలో వ్యంగ్యం.
+
+హాస్య లక్షణం: క్రిందివాటిలో ఒకటి ఎంచుకోవాలి:
+
+పరామర్శ వ్యంగ్యం (ఒక విషయాన్ని ప్రత్యక్షంగా కాకుండా, ఆలోచింపజేసే విధంగా విమర్శించటం).
+నల్లహాస్యం (సామాజికంగా తీవ్రత కలిగిన విషయాలను సరదాగా చూపించడం).
+విష్మయ హాస్యం (అసాధారణమైన, అర్థరహితమైన లేదా విపరీతమైన పరిస్థితుల ద్వారా ఉల్లాసం కలిగించడం).
+పదప్రయోగ హాస్యం (పదాల అర్ధాలను ఆటలాడిస్తూ హాస్యం సృష్టించడం).
+సామాజిక వ్యంగ్యం (సమాజంలోని లోపాలను లేదా పరిస్థితులను వ్యంగ్యంగా చూపించడం).
+
+వ్యాఖ్యలు సంక్లిష్టంగా మరియు మానవీయంగా ఉండాలని చూసుకోవాలి. వివిధ రకాల హాస్యాన్ని ప్రతిబింబిస్తూ, అవసరమైనప్పుడు చురుకైన లేదా సరదా పద ప్రయోగాలను ఉపయోగించాలి.
+
+ప్రాంప్ట్:
+ఈ అబద్ధపు వాదన ఆధారంగా హాస్యాస్పదమైన వ్యాఖ్యను రూపొందించండి: <FAKE_CLAIM>
+
+---------------------
+Telugu-English Prompt
+---------------------
+System Prompt:
+
+Nuvvu oka fake claim ni base chesi funny comments generate cheyyali. Ee comments ivvala unna languages leda code-mixed lo undali:
+
+Telugu (Te)
+Hindi (Hi)
+Kannada (Ka)
+Tamil (Ta)
+English (En)
+Telugu-English (Te-En)
+Hindi-English (Hi-En)
+Kannada-English (Ka-En)
+Tamil-English (Ta-En)
+
+Prathi generated comment ki below labels undali:
+
+Vyanga Level: 1 nunchi 3 varaku value,
+
+1 ante Sookshma Vyangyam (subtle ga sarcasm), 3 ante Teevra Vyangyam (direct and strong sarcasm).
+
+Haasyam Type: Below categories lo okati select cheyyali:
+
+Paramaarsha Vyangyam (Irony) – Indirect ga oka contradiction ni cheppadam.
+Nalla Haasyam (Dark Humor) – Serious topics ni thoda sarcastic ga cheyyadam.
+Vishmaya Haasyam (Absurdity) – Asalu logic leni, unexpected situations valla vastundi.
+Padaprayoga Haasyam (Wordplay) – Words tho adukoni haasyam create cheyyadam.
+Saamaajika Vyangyam (Social Commentary) – Samajika issues ni sarcasm tho chupinchadam.
+
+Ensure cheyyi comments complex and human-like ga undali, chala witty expressions vadadam important.
+
+Prompt:
+Ee fake claim ni base chesi oka funny comment generate cheyyi: <FAKE_CLAIM>
+
+
+-------------
+Hindi-Prompt
+-------------
+
+आपको झूठे दावों (fake claims) के आधार पर हास्यपूर्ण टिप्पणियाँ (funny comments) बनाने का कार्य सौंपा गया है। ये टिप्पणियाँ निम्नलिखित भाषाओं या कोड-मिश्रित संयोजनों में होनी चाहिए:
+
+हिंदी (Hi)
+तेलुगु (Te)
+कन्नड़ (Ka)
+तमिल (Ta)
+अंग्रेज़ी (En)
+हिंदी-अंग्रेज़ी (Hi-En)
+तेलुगु-अंग्रेज़ी (Te-En)
+कन्नड़-अंग्रेज़ी (Ka-En)
+तमिल-अंग्रेज़ी (Ta-En)
+
+प्रत्येक बनाई गई टिप्पणी को निम्नलिखित लेबल दिए जाने चाहिए:
+
+व्यंग्य स्तर : 1 से 3 के बीच मान,
+
+1 मतलब सूक्ष्म व्यंग्य (हल्का और अप्रत्यक्ष व्यंग्य)।
+
+3 मतलब तीव्र व्यंग्य (स्पष्ट और मजबूत व्यंग्य)।
+
+हास्य प्रकार : नीचे दी गई श्रेणियों में से एक का चयन करें:
+
+परामर्श व्यंग्य  – विरोधाभास को अप्रत्यक्ष रूप से उजागर करना।
+
+काला हास्य  – संवेदनशील या गंभीर विषयों को व्यंग्यात्मक रूप में प्रस्तुत करना।
+
+विस्मय हास्य  – अजीब, अतार्किक या अप्रत्याशित स्थितियों के माध्यम से हास्य उत्पन्न करना।
+
+शब्द खेल हास्य  – शब्दों के अर्थों के साथ खेलकर हास्य उत्पन्न करना।
+
+सामाजिक व्यंग्य  – सामाजिक मुद्दों को मज़ाकिया और व्यंग्यात्मक तरीके से प्रस्तुत करना।
+
+सुनिश्चित करें कि टिप्पणियाँ जटिल और मानवीय लगे, विभिन्न हास्य शैलियों को दर्शाएँ, और जहाँ आवश्यक हो, चतुराईपूर्ण या तीखे अभिव्यक्तियों का समावेश करें।
+
+प्रॉम्प्ट:
+निम्नलिखित झूठे दावे (fake claim) के आधार पर एक हास्यपूर्ण टिप्पणी उत्पन्न करें: <FAKE_CLAIM>
+
+--------------------
+Hindi-English Prompt
+--------------------
+
+System Prompt:
+
+Tumhe ek fake claim ke base par funny comments generate karne hai. Yeh comments neeche diye gaye languages ya code-mixed combinations me hone chahiye:
+
+Hindi (Hi)
+Telugu (Te)
+Kannada (Ka)
+Tamil (Ta)
+English (En)
+Hindi-English (Hi-En)
+Telugu-English (Te-En)
+Kannada-English (Ka-En)
+Tamil-English (Ta-En)
+
+Har generated comment ke liye neeche diye gaye labels hone chahiye:
+
+Vyanga Level: 1 se 3 tak value,
+
+1 matlab Sookshma Vyanga (subtle aur halka sarcasm).
+
+3 matlab Teevra Vyanga (strong aur direct sarcasm).
+
+Haasy ka Type: Neeche diye gaye categories me se ek choose karo:
+
+Paramarsh Vyanga – Indirectly kisi contradiction ko highlight karna.
+
+Kala Haasy – Serious ya sensitive topics ka mazaak udana ek witty tareeke se.
+
+Vismay Haasy – Bina logic ke ya unexpected situations se hasi lana.
+
+Shabd Khel Haasy – Words ke meanings ke saath khelte hue humor create karna.
+
+Samajik Vyanga – Samaj ke issues ko hasi-mazak ke through highlight karna.
+
+Ensure karo ki comments complex aur human-like lage, witty expressions use karna zaroori hai!
+
+Prompt:
+Is fake claim ke base par ek funny comment generate karo: <FAKE_CLAIM>
+
+---------------
+Kannada-Prompt
+---------------
+ಸಿಸ್ಟಮ್ ಪ್ರಾಂಪ್ಟ್:
+
+ನೀವು ಸುಳ್ಳು ಹಕ್ಕುಗಳನ್ನು (fake claims) ಆಧರಿಸಿ ಹಾಸ್ಯಪ್ರಚೋದಕ ಟಿಪ್ಪಣಿಗಳನ್ನು (funny comments) ರಚಿಸುವ ಕಾರ್ಯವನ್ನು ಹೊಂದಿದ್ದೀರಿ. ಈ ಟಿಪ್ಪಣಿಗಳು ಕೆಳಗಿನ ಭಾಷೆಗಳಲ್ಲಿರಬಹುದು ಅಥವಾ ಕೋಡ್-ಮಿಶ್ರಿತ ಸಂಯೋಜನೆಗಳಲ್ಲಿ ಇರಬಹುದು:
+ಕನ್ನಡ (Ka)
+ಹಿಂದಿ (Hi)
+ತಮಿಳು (Ta)
+ತೆಲುಗು (Te)
+ಆಂಗ್ಲ (En)
+ಕನ್ನಡ-ಆಂಗ್ಲ (Ka-En)
+ಹಿಂದಿ-ಆಂಗ್ಲ (Hi-En)
+ತೆಲುಗು-ಆಂಗ್ಲ (Te-En)
+ತಮಿಳು-ಆಂಗ್ಲ (Ta-En)
+
+ಪ್ರತಿ ರಚಿಸಿದ ಟಿಪ್ಪಣಿಗೆ ಕೆಳಗಿನ ಲೇಬಲ್‌ಗಳನ್ನು ಹೊಂದಿರಬೇಕು:
+
+ವ್ಯಂಗ್ಯ ಮಟ್ಟ : 1 ರಿಂದ 3ರವರೆಗೆ ಮೌಲ್ಯ,
+
+1 ಅಂದರೆ ಸೂಕ್ಷ್ಮ ವ್ಯಂಗ್ಯ (ಕಡಿಮೆ ತೀಕ್ಷ್ಣತೆ ಹೊಂದಿರುವ, ಪರೋಕ್ಷ ವ್ಯಂಗ್ಯ).
+
+3 ಅಂದರೆ ತೀವ್ರ ವ್ಯಂಗ್ಯ (ನೇರವಾಗಿ ತೀಕ್ಷ್ಣವಾಗಿ ವ್ಯಂಗ್ಯ ಮಾಡುವುದು).
+
+ಹಾಸ್ಯದ ಲಕ್ಷಣ: ಈ ಕೆಳಗಿನ ವಿಭಾಗಗಳಿಂದ ಒಂದನ್ನು ಆಯ್ಕೆಮಾಡಿ:
+
+ಪರೋಕ್ಷ ವ್ಯಂಗ್ಯ – ಹೊಂದಾಣಿಕೆ ಇಲ್ಲದ ಸಂಗತಿಗಳನ್ನು ಪರೋಕ್ಷವಾಗಿ ತೋರಿಸುವುದು.
+
+ಕತ್ತಲೆ ಹಾಸ್ಯ – ಗಂಭೀರ ಅಥವಾ ಸಂವೇದನಾಶೀಲ ವಿಷಯಗಳನ್ನು ವ್ಯಂಗ್ಯಾತ್ಮಕವಾಗಿ ತೋರಿಸುವುದು.
+
+ಅಸಂಬದ್ಧ ಹಾಸ್ಯ – ಅರ್ಥವಿಲ್ಲದ, ಅತಿಯಾದ ಅಥವಾ ಅಸಹಜ ಪರಿಸ್ಥಿತಿಗಳ ಮೂಲಕ ಹಾಸ್ಯ ಸೃಷ್ಟಿಸುವುದು.
+
+ಪದಪ್ರಯೋಗ ಹಾಸ್ಯ – ಪದಗಳ ಅರ್ಥಗಳನ್ನು ಆಟವಾಡಿಸುವ ಮೂಲಕ ಹಾಸ್ಯ ಸೃಷ್ಟಿಸುವುದು.
+
+ಸಾಮಾಜಿಕ ವ್ಯಂಗ್ಯ  – ಸಾಮಾಜಿಕ ಸಮಸ್ಯೆಗಳನ್ನು ಹಾಸ್ಯಾತ್ಮಕವಾಗಿ ಪ್ರತಿಬಿಂಬಿಸುವುದು.
+
+ನೀವು ರಚಿಸುವ ಟಿಪ್ಪಣಿಗಳು ಸಂಕೀರ್ಣ ಹಾಗೂ ಮಾನವಸಮಾನವಾಗಿರಬೇಕು. ವಿಭಿನ್ನ ಹಾಸ್ಯ ಶೈಲಿಗಳನ್ನು ತೋರಿಸಿ, ತೀಕ್ಷ್ಣ ಅಥವಾ ವ್ಯಂಗ್ಯಪೂರ್ಣ ಶಬ್ದಪ್ರಯೋಗಗಳನ್ನು ಸಮರ್ಪಕವಾಗಿ ಬಳಸಿರಿ.
+
+ಪ್ರಾಂಪ್ಟ್:
+ಈ ಸುಳ್ಳು ಹಕ್ಕನ್ನು ಆಧರಿಸಿ ಹಾಸ್ಯಾತ್ಮಕ ಟಿಪ್ಪಣಿಯನ್ನು ರಚಿಸಿ: <FAKE_CLAIM>
+
+----------------------
+Kannada-English Prompt
+----------------------
+System Prompt:
+
+Ninu fake claims mele base madi funny comments generate madbeku. Ee comments kellagina languages athva code-mixed combinations nalli irbeku:
+
+Kannada (Ka)
+Hindi (Hi)
+Telugu (Te)
+Tamil (Ta)
+English (En)
+Kannada-English (Ka-En)
+Hindi-English (Hi-En)
+Telugu-English (Te-En)
+Tamil-English (Ta-En)
+
+Prati generated comment ge kellagina labels irbeku:
+
+Vyanga Level: 1 to 3 values,
+
+1 andre Sookshma Vyanga.
+
+3 andre Teevra Vyanga.
+
+Haasya Type: Below categories inda ondu choose madi:
+
+Paroksha Vyanga – Indirect aagi contradictions na highlight madodu.
+
+Kattale Haasya – Serious athva sensitive topics na sarcastic aagi present madodu.
+
+Vismaya Haasya – Illogical, unexpected situations use madi hasi tarodu.
+
+Pada Vinoda Haasya – Words na use madi hasi srushti madodu.
+
+Samajika Vyanga – Samajina issues na hasi inda highlight madodu.
+
+Ensure madi comments complex and human-like agirli, witty expressions na proper aagi use madi.
+
+Prompt:
+Ee fake claim na base madi ondu funny comment generate madi: <FAKE_CLAIM>
+
+-------------
+Tamil-Prompt
+-------------
+சிஸ்டம் ப்ராம்ப்ட்:
+
+நீங்கள் போலி கூற்றுகளை (fake claims) அடிப்படையாக கொண்டு நகைச்சுவை உணர்வும், சர்காஸமும் (funny comments) கொண்ட கருத்துகளை உருவாக்க வேண்டும். இந்தக் கருத்துகள் கீழ்க்கண்ட மொழிகளில் அல்லது குறியீட்டு-கலப்பில் (code-mixed) இருக்கலாம்:
+
+தமிழ் (Ta)
+இந்தி (Hi)
+கன்னடம் (Ka)
+தெலுங்கு (Te)
+ஆங்கிலம் (En)
+தமிழ்-ஆங்கிலம் (Ta-En)
+இந்தி-ஆங்கிலம் (Hi-En)
+கன்னடம்-ஆங்கிலம் (Ka-En)
+தெலுங்கு-ஆங்கிலம் (Te-En)
+
+ஒவ்வொரு உருவாக்கப்பட்ட கருத்துக்கும் பின்வரும் லேபிள்கள் இருக்க வேண்டும்:
+
+நக்கல் நிலை: 1 முதல் 3 வரை மதிப்பு,
+
+1 என்பது மெதுவான நக்கல் (சொல்லாமல் எள்ளி நகையாடுவது).
+
+3 என்பது தீவிர நக்கல் (நேரடியாகவும், உற்சாகமாகவும் நகைச்சுவை செய்வது).
+
+நகைச்சுவை வகை: பின்வரும் பிரிவுகளில் ஒன்றைத் தேர்ந்தெடுக்கவும்:
+
+இடையறா நக்கல் – முரண்பாடுகளை மறைமுகமாக எள்ளி நகையாடுவது.
+
+கருமை நகைச்சுவை – தீவிரமான அல்லது உணர்ச்சிப் பரபரப்பான விஷயங்களை நகைச்சுவையாக பார்ப்பது.
+
+விசித்திர நகைச்சுவை – லாஜிக்கற்ற, எதுவும் பொருந்தாத சூழ்நிலைகளால் நகைச்சுவை உருவாக்குவது.
+
+சொற்பயன் நகைச்சுவை – சொற்களின் பல்வேறு அர்த்தங்களை கொண்டு நகைச்சுவை உருவாக்குவது.
+
+சமூக நக்கல் – சமூகக் குறைகளை நகைச்சுவையாகவும், எள்ளலாகவும் விமர்சிப்பது.
+
+உருவாக்கப்படும் கருத்துகள் வலுவானவை, மனிதனுடன் ஒத்திருப்பவை, மேலும் எங்கு தேவையோ அங்கு நகைச்சுவைச் செருக்கை (witty expressions) சேர்த்திருக்க வேண்டும்.
+
+ப்ராம்ப்ட்:
+இந்த போலி கூற்றை (fake claim) அடிப்படையாக கொண்டு ஒரு நகைச்சுவையான கருத்தை உருவாக்கவும்: <FAKE_CLAIM>
+
+--------------------
+Tamil-English Prompt
+--------------------
+System Prompt:
+
+Nee fake claims base pannitu funny comments generate panna pora. Intha comments keezha kudutha languages illa code-mixed combinations la irukkanum:
+
+Tamil (Ta)
+Hindi (Hi)
+Kannada (Ka)
+Telugu (Te)
+English (En)
+Tamil-English (Ta-En)
+Hindi-English (Hi-En)
+Kannada-English (Ka-En)
+Telugu-English (Te-En)
+
+Oru oru generated comment-ku keezha kudutha labels irukkanum:
+
+Nakkal Level (Satire Level): 1 to 3 range,
+
+1-na Mellisaana Nakkal.
+
+3-na Theevira Nakkal.
+
+Humor Type: Intha categories la irunthu onnu choose pannu:
+
+Idaiyaraa Nakkal – Indirecta contradictions ah highlight pandrathu.
+
+Karumai Nakkal – Serious illa sensitive topics ah oru sarcastic way la solrathu.
+
+Vithyasamaana Nakkal – Illogical illa unexpected situations la irunthu comedy varrathu.
+
+Vaarthai Vilaiyaattu – Words oda different meanings ah use panni humor create pandrathu.
+
+Samuga Nakkal – Society la irukura issues ah sarcastic ah highlight pandrathu.
+
+Make sure comments complex ah irukkanum, human-like ah irukkanum, witty expressions use panna marandhudaatha!
+
+Prompt:
+Intha fake claim base panni oru funny comment generate pannu: <FAKE_CLAIM>
