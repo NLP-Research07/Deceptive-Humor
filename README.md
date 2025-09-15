@@ -1,6 +1,6 @@
 # Deceptive-Humor
 
-[Deceptive Humor Project Website]()
+[Deceptive Humor Project Website](https://nlp-research07.github.io/Deceptive-Humor/)
 
 ## Examples of Humorous Comments
 
@@ -29,4 +29,4 @@ But what if it misguides us?
 That’s exactly what we explored in this project, **Deceptive Humor**, where humor has the power to mislead and manipulate.
 
 For more details, check out the website:  
-[Deceptive Humor Project]()
+[Deceptive Humor Project](https://nlp-research07.github.io/Deceptive-Humor/)
